@@ -157,6 +157,7 @@ module.exports = {
     "react/prefer-stateless-function": 0,
     "no-var": "error",
     "prefer-arrow-callback": "error",
+    "prefer-template": "error",
     "arrow-parens": ["error", "always"],
     "prefer-const": "error",
     "require-yield": "error",
